@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @athekkan
+- 👀 I’m interested in programming and coding
+- 🌱 I’m currently learning apache Kafka
